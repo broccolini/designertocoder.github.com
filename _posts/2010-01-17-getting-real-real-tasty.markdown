@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grocery Simplicity
+title: Getting Real. Real Tasty.
 ---
 
 I amused myself today when I realized 37signals does my groceries.

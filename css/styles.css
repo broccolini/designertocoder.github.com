@@ -111,3 +111,25 @@ h3{
   font-size: 14px;
   color: #999;
 }
+#enjoy_my_toots{
+  margin-top: -4em;
+  margin-bottom: 4em;
+  background-color: #FBFBFB;
+  border: 1px solid #eee;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  padding: .75em 1em;
+  text-align: center;
+  color: #999;
+  text-shadow: 1px 1px 0 #fff;
+}
+#enjoy_my_toots p:first-child{
+  font-size: 1em;
+  color: #777;
+}
+#enjoy_my_toots p{
+  font-size: .75em;
+}
+#enjoy_my_toots a{
+  color: #93BCED;
+}

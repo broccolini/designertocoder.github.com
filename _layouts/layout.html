@@ -11,10 +11,17 @@
    <link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/holman" />
    <link rel="stylesheet" href="/css/styles.css" type="text/css" media="screen, projection" />
    <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+   <script type="text/javascript" src="/javascript/jquery-boastful.js"></script>
+   <script type="text/javascript">
+     $(document).ready(function() {
+        $('#boastful').boastful()
+     });
+   </script>
 </head>
 <body>
 
-<div id="content">
+<div class="content">
 <div id="header">
   <a href="/">
     <img src="http://twivatar.org/holman/normal" height="48" width="48" />
@@ -31,8 +38,13 @@
     <a href="http://www.last.fm/user/zachholman">last.fm</a>
   </div>
 </div>
+</div>
 
 {{ content }}
+
+<div class="related">
+<h3>All Posts</h3>
+<p>{% for post in site.posts %}<a href="{{ post.url }}">{{ post.title }}</a>{% unless forloop.last %} &ndash; {% endunless %}{% endfor %}</p>
 </div>
 
 <script type="text/javascript">

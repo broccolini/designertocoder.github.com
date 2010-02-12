@@ -141,6 +141,7 @@ h3{
 }
 #boastful .topsy_widget_data{
   float: right;
+  padding-top: 20px;
 }
 
 /* temporary demarcate this for when I extract boastful */

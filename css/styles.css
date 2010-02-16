@@ -74,20 +74,22 @@ h3{
 #header #byline a:hover{
   text-decoration: none;
 }
-#header img{
+#header .avatar{
   border: 0;
   margin-top: 7px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   float: right;
 }
-#header #misc a:hover{
-  color: #eee;
+#header #misc img{
+  -webkit-box-shadow: 1px 1px 5px #ccc;
+  margin-right: 7px;
+  border: 0;
+  opacity: .5;
 }
-#header #misc a{
-  color: #ccc;
-  font-weight: bold;
-  padding-right: 20px;
+#header #misc img:hover{
+  -webkit-box-shadow: 1px 1px 5px #999;
+  opacity: 1;
 }
 #post{
   margin-bottom: 8em;

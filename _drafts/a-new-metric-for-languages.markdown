@@ -5,3 +5,10 @@ Cool. Now you neatly-organized Java guys are irritated at being clumped in with 
 With that said, for the sake of this post, I'm going to argue they're all about the same. A competent Java guy is going to write as effective as a competent Objective C guy. Compare that to a secretarial position, where tool choice does matter: a secretary will be orders of magnitude more efficient if he types with a computer rather than a typewriter. There are edge cases, of course: Google won't power their main search with Ruby any time soon, and banking software might not want to run on sqlite, but again, let's talk more about the general-purpose programming market.
 
 I've been thinking about this assumption for a little bit, and if you agree that language choice isn't going to make or break you on the order of magnitude level, what might impact developer productivity at that level?
+
+
+
+
+
+
+http://corte.si/posts/code/devsurvey/

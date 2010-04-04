@@ -23,6 +23,21 @@ p code{
 }
 .related{
   padding: 0 15%;
+	color: #999;
+	margin-bottom: 3em;
+}
+.related ul{
+	margin: 0;
+	padding: 0;
+}
+.related li{
+	list-style: none;
+	padding: 5px 10px;
+	margin: 0;
+	border-bottom: 1px solid #eee;
+}
+.related li span{
+	float: right;
 }
 h1,h2,h3,h4{
   color: #555;

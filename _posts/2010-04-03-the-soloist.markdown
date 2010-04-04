@@ -3,8 +3,6 @@ layout: post
 title: The Soloist
 ---
 
-## The Soloist
-
 I could go on for awhile about first-party iPad apps (Maps and Photos are fantastic, and YouTube finally transforms YouTube into, well, not YouTube), and about third-party apps (ABC, Netflix, New York Times, and growing competition in Twitter app land are all keen launch-day examples), but I think that time is going to show that these apps aren't isolated cases. These apps are a part of a platform that specializes in really great, best-on-the-planet type of quality.
 
 I think this is a consequence of a lot of things- strong design leadership from Apple, strong leadership from the "Delicious Generation" of Mac developers moving to the iPhone, and indeed, the AppStore itself for proving it's economically viable. But I think the biggest motivator is *singular focus*, that you're not dealing with multiple apps at a time. No window chrome to deal with, no menu bar menus, no playing second fiddle to one or two or twelve other apps open at the same time. Even if (or when) Apple introduces 3rd party multitasking, I suspect it won't impact the main one-app-at-a-time viewpoint we've had the last few years.

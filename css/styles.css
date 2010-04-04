@@ -43,22 +43,25 @@ h2{
 h3{
 }
 #header{
-  margin-bottom: 5em;
+  margin-bottom: 8em;
+	padding-bottom: 0px;
+	border-bottom: 2px solid #eee;
 }
 #header a{
-  color: #777;
+  color: #555;
   text-decoration: none;
 }
 #header #title{
-  padding-top: 8px;
+	font-size: 22px;
+  padding-top: 19px;
 }
-#header #misc{
-  font-size: 13px;
+#header #title a{
+	padding-right: 150px;
 }
 #header #byline{
   color: #999;
   font-size: 13px;
-  padding-top: 12px;
+  padding-top: 20px;
   padding-right: 10px;
   float: right;
   text-align: right;
@@ -97,15 +100,20 @@ h3{
 #post p{
   line-height: 1.6em;
 }
-#post .bubbles{
-  color: #999;
-  font-size: 14px;
-  margin-left: 7px;
-  padding: 5px 5px 3px 5px;
-  background-color: #F9F9F9;
-  -webkit-border-radius: 7px;
-  -moz-border-radius: 7px;
-  border: 1px solid #eee;
+#post .authoring{
+	padding-left: 8px;
+	font-size: 14px;
+	color: #777;
+}
+#post .authoring a{
+	color: #777;
+	text-decoration: none;
+	border-bottom: 1px solid #ccc;
+	padding: 0;
+}
+#post .authoring a:hover{
+	color: #555;
+	border-color: #555;
 }
 #post blockquote{
   border-top: 1px solid #eee;
@@ -125,6 +133,18 @@ h3{
 }
 #post a{
   padding: 0 3px;
+}
+#foots{
+	margin-top: 1.25em;
+	padding: 10px 15%;
+  background-color: #eee;
+	font-size: 14px;
+}
+#foots{
+	color: #999;
+}
+#foots a{
+	padding: 0 2px;
 }
 #boastful{
   background: 

@@ -19,12 +19,9 @@ p code{
   -moz-border-radius: 4px;
 }
 .content{
-  margin: 0 15%;
-}
-.related{
-  padding: 0 15%;
-	color: #999;
-	margin-bottom: 3em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
 }
 .related ul{
 	margin: 0;
@@ -150,12 +147,10 @@ h3{
   padding: 0 3px;
 }
 #foots{
-	margin-top: 1.25em;
+	margin-top: 3em;
 	padding: 10px 15%;
   background-color: #eee;
 	font-size: 14px;
-}
-#foots{
 	color: #999;
 }
 #foots a{

@@ -1,7 +1,6 @@
 body{
   font-family: 'Myriad Pro';
   font-size: 18px;
-  text-shadow: 1px 1px 0 #fff;
   margin: 0;
 }
 a{
@@ -152,6 +151,7 @@ h3{
   background-color: #eee;
 	font-size: 14px;
 	color: #999;
+  text-shadow: 1px 1px 0 #fff;
 }
 #foots a{
 	padding: 0 2px;
@@ -163,6 +163,7 @@ h3{
   padding: 1.25em 15%;
   color: #999;
   font-size: 13px;
+  text-shadow: 1px 1px 0 #fff;
 }
 #boastful h4{
   margin: 20px 0 10px 0;

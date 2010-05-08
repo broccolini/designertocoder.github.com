@@ -7,15 +7,11 @@ It seems like every day this past week there's been some new story about privacy
 
 This is classic opportunity, guys.
 
-### Get back to basics
-
 Hacker News is all aflutter about building peer-to-peer proxied distributed neutral neural private interconnected nodes having sex with each other to replace Facebook. I know, right? The whole point of Facebook was that I connect to *non-nerds*. The moment anything gets even the slightest bit complicated, you start losing them. That can be surmounted in a lot of sites, but for social networking you need to retain as many users as possible in order to exploit the network effect.
 
 The easiest and quickest way to build a Facebook-level of replacement is to just blatantly copy Facebook. Not the Facebook of 2010, of course — today's Facebook can hardly be called Facebook — but the Facebook of yesteryear. Tap into the primal urges that got people *really excited* about the site in the first place. My university was in the first half-dozen of schools added to Facebook, and I remember this new site out of nowhere hitting roughly 90-95% student penetration within a couple of weeks. That's absurd... but not completely unexpected.
 
 When Facebook first came out, people were excited about person-to-person communication. It was especially enticing for those graduating in my class of '08; we were in our first two weeks of our first year of college when Facebook debuted, and it was the perfect service to connect ourselves with both our newfound college friends and our old high school friends from back home. It had some features like class scheduling and planning, but it was most exciting as a simple, straightforward way to keep in touch with your new and old friends.
-
-### A new opportunity: it's the same as the last one
 
 Eventually Facebook broadened into what many of us would classify as "true" Facebook: friend connections, photos, status updates, possibly events. And it was good. And then they added their API, and it slowly sank into what it is today.
 

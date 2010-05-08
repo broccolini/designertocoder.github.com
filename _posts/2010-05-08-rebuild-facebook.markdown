@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rebuild Facebook
----
+--- 
 
 It seems like every day this past week there's been some new story about privacy issues and security holes at Facebook. People are starting to get really pissed at the company. I'm not; I find the whole thing fascinating. Here we have a massive company who has grown far beyond what anyone had anticipated, and it's experiencing some growing pains as it transitions from the site people signed up for yesterday to the site people will use tomorrow.
 

@@ -1,7 +1,8 @@
 body{
-  font-family: 'Myriad Pro';
+  font-family: 'Georgia';
   font-size: 18px;
   margin: 0;
+	-webkit-font-smoothing: antialiased;
 }
 a{
   color: #227CE8;
@@ -37,7 +38,7 @@ p code{
 }
 h1,h2,h3,h4{
   color: #555;
-  font-family: 'Myriad Pro';
+  font-family: 'Futura';
   font-weight: normal;
 }
 h1 a, h2 a, h3 a, h4 a{
@@ -109,7 +110,9 @@ h3{
   margin-bottom: 8em;
 }
 #post p{
-  line-height: 1.6em;
+	margin-left: 5px;
+	margin-bottom: 1.6em;
+  line-height: 1.7em;
 }
 #post .authoring{
 	padding-left: 8px;

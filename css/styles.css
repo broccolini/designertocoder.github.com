@@ -1,5 +1,5 @@
 body{
-  font-family: 'Georgia';
+  font-family: Georgia, serif;
   font-size: 18px;
   margin: 0;
 	-webkit-font-smoothing: antialiased;
@@ -19,15 +19,18 @@ p code{
   -moz-border-radius: 4px;
 }
 .content{
-  margin-left: auto;
-  margin-right: auto;
-  width: 800px;
+  margin-left: 300px;
+  margin-right: 200px;
+}
+.related{
+	margin-bottom: 50px;
 }
 .related ul{
 	margin: 0;
 	padding: 0;
 }
 .related li{
+	font-size: 14px;
 	list-style: none;
 	padding: 5px 10px;
 	margin: 0;
@@ -38,7 +41,7 @@ p code{
 }
 h1,h2,h3,h4{
   color: #555;
-  font-family: 'Futura';
+  font-family: Futura, Helvetica, sans-serif;
   font-weight: normal;
 }
 h1 a, h2 a, h3 a, h4 a{
@@ -55,56 +58,47 @@ h2{
 h3{
 }
 #header{
-  margin-bottom: 8em;
-	padding-bottom: 0px;
-	border-bottom: 2px solid #eee;
+	position: fixed;
+	left: 15px;
+	top: 15px;
+	width: 250px;
+}
+#header .avatar{
+  border: 0;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+	float: left;
 }
 #header a{
   color: #555;
   text-decoration: none;
 }
-#header #title{
-	font-size: 22px;
-  padding-top: 19px;
+#header #bio{
+	margin-left: 55px;
+	margin-top: -4px;
 }
-#header #title a{
-	padding-right: 150px;
+#header #bio #title a{
+	font-size: 15px;
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	padding-left: 4px;
 }
-#header #byline{
-  color: #999;
-  font-size: 13px;
-  padding-top: 20px;
-  padding-right: 10px;
-  float: right;
-  text-align: right;
+#header #bio .byline{
+	font-size: 13px;
+	line-height: 1.4em;
+	font-family: Helvetica, sans-serif;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+	padding-left: 4px;
 }
-#header #byline p{
-  margin: 0;
-  margin-top: 2px;
+#header #bio .separation{
+	border-bottom: 1px solid #ccc;
 }
-#header #byline a{
-  color: #999;
-  text-decoration: underline;
+#header #bio .byline a{
+	text-decoration: underline;
 }
-#header #byline a:hover{
-  text-decoration: none;
-}
-#header .avatar{
-  border: 0;
-  margin-top: 7px;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  float: right;
-}
-#header #misc img{
-  -webkit-box-shadow: 1px 1px 5px #ccc;
-  margin-right: 7px;
-  border: 0;
-  opacity: .5;
-}
-#header #misc img:hover{
-  -webkit-box-shadow: 1px 1px 5px #999;
-  opacity: 1;
+#header a:hover{
+	color: #111;
 }
 #post{
   margin-bottom: 8em;

@@ -10,7 +10,7 @@ a{
 a:hover{
   text-decoration: none;
 }
-p code{
+p code, li code{
   background-color: #F9F9F9;
   border: 1px solid #eee;
   font-size: 12px;
@@ -21,6 +21,23 @@ p code{
 .content{
   margin-left: 300px;
   margin-right: 200px;
+}
+.content ul{
+  font-size: .8em;
+  border-top: 2px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  background-color: #eee;
+  padding: 1em 2em;
+  margin: 0 2em;
+}
+.content li{
+  line-height: 1.25em;
+  margin-bottom: .75em;
+  color: #222;
+  list-style-type: square;
+}
+.content li code{
+  border: 1px solid #ccc;
 }
 .related{
 	margin-top: 10px;
@@ -155,7 +172,7 @@ h3{
 	padding: 0 2px;
 }
 #boastful{
-  background: 
+  background:
     -webkit-gradient(linear, left top, left bottom, from(#ccc), to(#fff), color-stop(.1, #eee), color-stop(.8, #fff));
   background-color: #fbfbfb;
   padding: 1.25em 15%;
@@ -194,7 +211,7 @@ h3{
   display: none;
   width: 0;
   height: 0;
-  border-left: 10px solid transparent; 
+  border-left: 10px solid transparent;
   border-right: 10px solid transparent;
   border-bottom: 10px solid #000;
   border-top: 0;

@@ -1,5 +1,6 @@
-.highlight { 
-  background-color: #333333; 
+.highlight {
+  margin: 0 2.5em;
+  background-color: #333333;
   font-size: 12px;
   padding: 10px 5px;
   -webkit-border-radius: 10px;

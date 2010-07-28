@@ -161,7 +161,7 @@ h3{
   padding: 0 3px;
 }
 #foots{
-	margin-top: 3em;
+	margin-top: 2em;
 	padding: 10px 15%;
   background-color: #eee;
 	font-size: 14px;
@@ -176,7 +176,7 @@ h3{
     -webkit-gradient(linear, left top, left bottom, from(#ccc), to(#fff), color-stop(.1, #eee), color-stop(.8, #fff));
   background-color: #fbfbfb;
   padding: 1.25em 15%;
-	padding-bottom: 7em;
+	padding-bottom: 4em;
   color: #999;
   font-size: 13px;
   text-shadow: 1px 1px 0 #fff;

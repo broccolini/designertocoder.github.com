@@ -7,6 +7,7 @@
   -moz-border-radius: 10px;
   overflow: hidden;
   text-shadow: none;
+  color: #eee;
 }
 .hightlight code{
   float: left;

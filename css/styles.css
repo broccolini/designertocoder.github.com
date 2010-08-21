@@ -205,6 +205,8 @@ h3{
 .boastful img{
   margin: 3px;
   border: 0;
+  width: 48px;
+  height: 48px;
   -webkit-border-top-left-radius: 7px;
   -webkit-border-bottom-right-radius: 7px;
   -moz-border-radius-topleft: 7px;

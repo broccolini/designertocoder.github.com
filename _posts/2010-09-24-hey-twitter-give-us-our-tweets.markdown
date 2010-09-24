@@ -84,3 +84,7 @@ to relationships, and to society. The Library of Congress shouldn't be the only
 one who [gets to explore the archives of
 Twitter](http://blogs.loc.gov/loc/2010/04/how-tweet-it-is-library-acquires-entire-twitter-archive/);
 it's something to which everyone should have a right.
+
+- - -
+
+You can discuss this post on [Hacker News](http://news.ycombinator.com/item?id=1724955).

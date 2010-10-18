@@ -43,9 +43,9 @@ sliced butter.
 Keep track of who owes you what. Simple. Basically I fancy myself a mobster
 sometimes, and sometimes you need to break a few kneecaps.
 
-##[Playbill](http://omecash.r10.railsrumble.com)
+##[Playbill](http://playbill.r10.railsrumble.com)
 
-<a href="http://omecash.r10.railsrumble.com"><img src="http://cl.ly/2rr7/content" /></a>
+<a href="http://playbill.r10.railsrumble.com"><img src="http://cl.ly/2rr7/content" /></a>
 
 Playbill's a quick way to find out what's going down in your city of residence
 tonight. Cool design, one text field, embedded maps, what's not to like?

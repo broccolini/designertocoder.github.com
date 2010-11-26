@@ -19,7 +19,7 @@ Remember... all of these were done in 48 hours or less, which is kind of
 insane.
 
 ##[Boarrd](http://board.r10.railsrumble.com)
-<a href="http://board.r10.railsrumble.com"><img src="http://cl.ly/2roZ/content" /></a>
+<a href="http://board.r10.railsrumble.com"><img src="http://cl.ly/2roZ/boarrd.png" /></a>
 
 Boarrd is an app that I've wanted to do for some time; it's basically a status
 board that lets you set up self-contained widgets on a page. Great design, and
@@ -29,7 +29,7 @@ doesn't seem all too hard for them to ferociously build out new widgets into
 the future.
 
 ##[Splendid Bacon](http://splendidbacon.com)
-<a href="http://splendidbacon.com"><img src="http://cl.ly/2re4/content"></a>
+<a href="http://splendidbacon.com"><img src="http://cl.ly/2re4/splendid-bacon.png"></a>
 
 Splendid Bacon's pretty splendid. Simple project tracker somewhat akin to 
 [Cultured Code's status board](http://culturedcode.com/status). It works with
@@ -38,14 +38,14 @@ sliced butter.
 
 ##[Owe Me Cash](http://omecash.r10.railsrumble.com)
 
-<a href="http://omecash.r10.railsrumble.com"><img src="http://cl.ly/2rvs/content" /></a>
+<a href="http://omecash.r10.railsrumble.com"><img src="http://cl.ly/2rvs/owe-me-cash.png" /></a>
 
 Keep track of who owes you what. Simple. Basically I fancy myself a mobster
 sometimes, and sometimes you need to break a few kneecaps.
 
 ##[Playbill](http://playbill.r10.railsrumble.com)
 
-<a href="http://playbill.r10.railsrumble.com"><img src="http://cl.ly/2rr7/content" /></a>
+<a href="http://playbill.r10.railsrumble.com"><img src="http://cl.ly/2rr7/playbill.png" /></a>
 
 Playbill's a quick way to find out what's going down in your city of residence
 tonight. Cool design, one text field, embedded maps, what's not to like?

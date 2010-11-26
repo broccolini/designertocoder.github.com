@@ -3,7 +3,7 @@ layout: post
 title: Gizmodo
 ---
 
-<img src="http://cl.ly/6av/content" title="Jason Chen and Jesus Diaz are douchebags, obviously" width="600" height="150" alt="couplea douchebags" />
+<img src="http://cl.ly/6av/douchebags.jpg" title="Jason Chen and Jesus Diaz are douchebags, obviously" width="600" height="150" alt="couplea douchebags" />
 
 I apologize. Starting out a blog post with the names and photos of some guys as a result of how those guys did their jobs is really dirtbag journalism. Slimy, awful, dirtbag journalism. But don't worry, it's on the internet. I guess. Besides, it wasn't just Jason Chen and Jesus Diaz who were douchebags; there's probably a few other douchebags involved at Gizmodo, too.
 

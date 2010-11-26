@@ -16,7 +16,7 @@ Needless to say, a good test suite is a godsend. Merging itself may be difficult
 If I had to submit a technical schematic of how our merging process looks like from a developer standpoint, I'd probably whiteboard something like this:
 
 <p style="text-align: center">
-  <img src="http://cl.ly/1o8n/content" />
+  <img src="http://cl.ly/1o8n/cctv-fire-funny-photoshop-by-chinese-netizens-15.jpeg" />
 </p>
 
 This is primarily because the merge ends up looking like this:

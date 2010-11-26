@@ -39,7 +39,7 @@ Personally, I forked Ryan's Bates' dotfiles a few years back and loved it. It's 
 
 After awhile, though, I started wanting a clean slate with a much better handle on organization. So, I started from my fork and pushed a new project.
 
-<a href="http://github.com/holman/dotfiles"><img src="http://cl.ly/24fM/content"></a>
+<a href="http://github.com/holman/dotfiles"><img src="http://cl.ly/24fM/holman-dotfiles.png"></a>
 
 What sets mine apart that I'm kind of in love with is that everything is broken into very specific and distinct areas:
 

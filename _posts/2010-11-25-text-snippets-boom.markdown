@@ -37,7 +37,7 @@ put that again?
 And then it's ready to be pasted, earning me lots of stars in our Campfire
 transcript as everyone has a jolly laugh.
 
-<img src="http://cl.ly/326M/content#.gif" />
+<img src="http://cl.ly/326M/animated.gif" />
 
 The [code's on GitHub](https://github.com/holman/boom), of course, and I'd love
 to hear how you're using boom, if you're doing something particularly cool with

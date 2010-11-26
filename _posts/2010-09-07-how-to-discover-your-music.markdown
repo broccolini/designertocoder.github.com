@@ -29,7 +29,7 @@ success, some retained a small but passionate userbase.
 
 And then Apple decides to launch Ping.
 
-<a href="http://cl.ly/2GBL"><img src="http://cl.ly/2GBL/content" /></a>
+<a href="http://cl.ly/2GBL"><img src="http://cl.ly/2GBL/ping.png" /></a>
 
 ## Ping
 
@@ -67,7 +67,7 @@ less like iTunes. In fact, that's what I've decided my music setup will be for
 the foreseeable future: all of my "main" music is in iTunes, all of my music
 discovery is handled by Rdio.
 
-<a href="http://cl.ly/2GUo"><img src="http://cl.ly/2GUo/content" /></a>
+<a href="http://cl.ly/2GUo"><img src="http://cl.ly/2GUo/rdio.png" /></a>
 
 Rdio does a few things really well: on login I get a snapshot of what my friends
 have been listening to (above). I can also browse their playlists and make my

@@ -71,3 +71,7 @@ This is prime time. The internet happens fast. You can type 140 characters, and
 within a few minutes have the entire world reading your words through retweets,
 remakes, and reblogs. The entire process is only going to speed up, too. Start
 building superfans.
+
+- - -
+
+You can discuss this post on [Hacker News](http://zachholman.com/2010/12/reputation/).

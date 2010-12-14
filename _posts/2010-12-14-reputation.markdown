@@ -74,4 +74,4 @@ building superfans.
 
 - - -
 
-You can discuss this post on [Hacker News](http://zachholman.com/2010/12/reputation/).
+You can discuss this post on [Hacker News](http://news.ycombinator.com/item?id=2004849).

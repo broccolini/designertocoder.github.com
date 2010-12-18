@@ -36,11 +36,11 @@ to such pseudo-religious heights because we strongly identify with his playful,
 positive mentality. Apple has a tremendously high-quality, product-driven 
 culture, and it's no wonder Steve Jobs is heralded there.
 
-Reputation isn't always such a Puritan concept, either. Zed Shaw can be an
-abrasive jerkstore, but his contributions, writings, and output is a frequent
-boon to our entire industry. Nothing stirs the pot more than Zed's blog posts.
-The same thing happens when NoSQL nukes a startup, or a tech rag's database
-gets compromised to pieces. Antagonist bloggers will craft attack pieces,
+Reputation isn't always such a Puritan concept, either. Zed Shaw is an abrasive
+jerkstore, but his contributions, writings, and output is a frequent boon to
+our entire industry. Nothing stirs the pot more than Zed's blog posts.  The
+same thing happens when NoSQL nukes a startup, or a tech rag's database gets
+compromised to pieces. Antagonist bloggers will craft attack pieces,
 sympathizers defend, and each player carves their reputation into the community
 a bit deeper.
 

@@ -98,6 +98,19 @@ h3{
 	margin-bottom: 15px;
 	padding-left: 4px;
 }
+#header #bio .contact{
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 11px;
+}
+#header #bio .contact a{
+  color: #999;
+  text-decoration: none !important;
+  padding-right: 15px;
+}
+#header #bio .contact a:hover{
+  color: #666;
+}
 #header #bio .separation{
 	border-bottom: 1px solid #ccc;
 }

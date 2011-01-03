@@ -25,7 +25,7 @@ frameborder="0"></iframe>
 A couple specific links to things mentioned in the screencast:
 
 - [`cloudapp`](https://github.com/holman/dotfiles/blob/master/bin/cloudapp)
-- [`gifme`](https://github.com/holman/cloudapp)
+- [`gifme`](https://github.com/holman/dotfiles/blob/master/bin/gifme)
 - [boom](https://github.com/holman/boom)
 - [My post on the importance of dotfiles](http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
 - [My post on boom](http://zachholman.com/2010/11/text-snippets-boom)

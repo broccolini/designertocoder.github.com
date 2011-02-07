@@ -40,6 +40,7 @@ hr{
   list-style: none;
   padding: 5px 10px;
   margin: 0;
+  color: #777;
   border-bottom: 1px solid #eee;
 }
 .related li span{

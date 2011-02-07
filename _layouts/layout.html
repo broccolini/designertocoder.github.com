@@ -13,6 +13,7 @@
    <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+   <script type="text/javascript" src="/javascript/application.js"></script>
    <script type="text/javascript" src="/javascript/jquery.boastful.js"></script>
    <script type="text/javascript">
      $(document).ready(function() {
@@ -24,25 +25,29 @@
 
 <div id="header">
   <a href="/">
-    <img src="http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c?s=142" height="48" width="48" class="avatar" />
+    <img src="http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c?s=142" height="75" width="75" class="avatar" />
   </a>
-  <div id="bio">
-    <div id="title"><a href="/">Zach Holman</a></div>
-    <div class="byline separation">
-      I currently ship it at <a href="http://github.com">GitHub</a>.<br />
-      I also ship <a href="http://www.good-tutorials.com">Good-Tutorials</a>.<br />
-    </div>
-    <div class="byline separation">
-      I'm <a href="http://twitter.com/holman">@holman</a> on Twitter.<br />
-      I'm <a href="http://github.com/holman">@holman</a> on GitHub.<br />
-    </div>
-    <div class="byline contact">
-      <a href="/about">about</a>
-      <a
-      href="mailto:&#109;&#105;&#110;&#101;&#115;&#104;&#097;&#102;&#116;&#045;&#103;&#097;&#112;&#064;&#122;&#097;&#099;&#104;&#104;&#111;&#108;&#109;&#097;&#110;&#046;&#099;&#111;&#109;">contact</a>
-      <a href="https://github.com/holman/holman.github.com">fork</a>
-    </div>
+
+  <div id="me">
+    <a href="/">
+      <span id="zach">zach</span>
+      <span id="holman">holman</span>
+    </a>
   </div>
+
+  <div id="mousing">&nbsp;</div>
+  <div class="site">
+    <a href="https://github.com/holman" id="github">
+      <img src="/images/github.png" alt="github" title="@holman on GitHub" />
+    </a>
+    <a href="https://twitter.com/holman" id="twitter">
+      <img src="/images/twitter.png" alt="twitter" title="@holman on Twitter" />
+    </a>
+    <a href="/about" id="about">
+      <img src="/images/about.png" alt="about" title="About Zach Holman" />
+    </a>
+  </div>
+
 </div>
 
 {{ content }}

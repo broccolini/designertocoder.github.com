@@ -125,3 +125,7 @@ curriculum.
 That said, I think there *are* students would would eat it up. And fostering
 that is good for *all* of us. Better students create better startups create
 better industries.
+
+- - -
+
+You can discuss this post on [Hacker News](http://news.ycombinator.com/item?id=2190422).

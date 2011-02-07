@@ -122,7 +122,7 @@ advocating replacing entire CS curriculums with startup-oriented classes,
 either... again, the majority of students might not be as interested in such a
 curriculum.
 
-That said, I think there *are* students would would eat it up. And fostering
+That said, I think there *are* students that would eat it up. And fostering
 that is good for *all* of us. Better students create better startups create
 better industries.
 

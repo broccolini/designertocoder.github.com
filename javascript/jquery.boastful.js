@@ -42,7 +42,7 @@
               top:$(this).position().top+25
             })
             $(this).children('.boastful_pointer').css({
-              left:$(this).position().left+18, 
+              left:$(this).position().left+8, 
               top:$(this).position().top+15
             })
           })

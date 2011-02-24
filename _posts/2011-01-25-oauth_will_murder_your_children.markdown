@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OAuth Will Murder Your Children
+hn: http://news.ycombinator.com/item?id=2140268
 ---
 
 Say there's a hot new startup that **just launched today** that you've **just
@@ -82,7 +83,3 @@ what's necessary. If Twitter wised up and started adding access selection, you
 should code around the prospect that your app may not receive everything under
 the sun. It may not be as convenient for you, but it's just another programming
 problem to deal with.
-
-- - -
-
-You can discuss this post on [Hacker News](http://news.ycombinator.com/item?id=2140268).

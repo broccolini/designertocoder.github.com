@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Steal the Code
+hn: http://news.ycombinator.com/item?id=1844011
 ---
 
 Learning anything is easy. Internalizing it is difficult.
@@ -43,7 +44,3 @@ months back* — my ability to retain knowledge has gone way up.
 
 Once you've reached that level of internalization, that difficult concept
 becomes just another concept you can auto-pilot.
-
-- - -
-
-You can discuss this post on [Hacker News](http://news.ycombinator.com/item?id=1844011).

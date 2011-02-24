@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Discover Your Music
+hn: http://news.ycombinator.com/item?id=1670801
 ---
 
 We finally figured out how to sell music online. Everyone knew that DRM was
@@ -117,7 +118,3 @@ draw as iTunes could have been really killer.
 I think we'll get there eventually. Until then, explore some of the other
 smaller players... they're the ones that will bring you the goods until Apple
 and the labels wrap their heads around the internet.
-
-- - -
-
-You can discuss this post on [Hacker News](http://news.ycombinator.com/item?id=1670801).

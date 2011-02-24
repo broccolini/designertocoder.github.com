@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "New Apple Patent Shows iPhone 6 Dispensing Ice Cream"
+hn: http://news.ycombinator.com/item?id=2246872
 ---
 
 No, fuck that. This has got to stop.
@@ -52,7 +53,3 @@ internet TV. That shit ain't here.
 All of these things may be coming, but at some point we need to realize that
 applying straightforward logic to Apple may derive better predictions than
 speculating on patents.
-
-- - -
-
-You can discuss this post on [Hacker News](http://news.ycombinator.com/item?id=2246872).

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Graduated with a Major in Startups"
+hn: http://news.ycombinator.com/item?id=2190422
 ---
 
 A few years ago, I graduated from Carnegie Mellon. Boasting some of the top
@@ -125,7 +126,3 @@ curriculum.
 That said, I think there *are* students that would eat it up. And fostering
 that is good for *all* of us. Better students create better startups create
 better industries.
-
-- - -
-
-You can discuss this post on [Hacker News](http://news.ycombinator.com/item?id=2190422).

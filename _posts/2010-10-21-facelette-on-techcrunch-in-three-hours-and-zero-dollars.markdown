@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Facelette: On TechCrunch in Three Hours and $0"
+hn: http://news.ycombinator.com/item?id=1816788
 ---
 
 Yesterday, Apple announced [FaceTime for
@@ -91,7 +92,3 @@ Don't be afraid to build things for the sake of building them. Since Facelette
 launched, you know what's put the biggest smile on my face? It definitely
 wasn't being TechCrunch'd; it was two tweets and a comment that said Facelette
 put a smile on *their* faces.
-
-- - -
-
-You can discuss this post on [Hacker News](http://news.ycombinator.com/item?id=1816788).

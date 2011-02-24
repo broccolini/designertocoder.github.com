@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Reputation: kind of a big deal"
+hn: http://news.ycombinator.com/item?id=2004849
 ---
 
 Reputation is an undervalued commodity.
@@ -71,7 +72,3 @@ This is prime time. The internet happens fast. You can type 140 characters, and
 within a few minutes have the entire world reading your words through retweets,
 remakes, and reblogs. The entire process is only going to speed up, too. Start
 building superfans.
-
-- - -
-
-You can discuss this post on [Hacker News](http://news.ycombinator.com/item?id=2004849).

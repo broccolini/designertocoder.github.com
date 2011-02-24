@@ -4,12 +4,19 @@ layout: layout
 
 <div class="content">
   <div id="post">
-  {% include post_header.html %}
-  {{ content }}
+    {% include post_header.html %}
+    {{ content }}
   </div>
-</div>
 
-<div id="boastful">
-  <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="holman">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-  <h4>They're talking about this post on Twitter:</h4>
+  {% if page.hn %}
+  <div id="hn">
+    <h3>Comments</h3>
+    You can discuss this post on its <a href="{{ page.hn }}">Hacker News submission</a>.
+  </div>
+  {% endif %}
+
+  <div id="boastful">
+    <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="holman">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+    <h3>Twitter Reactions</h3>
+  </div>
 </div>

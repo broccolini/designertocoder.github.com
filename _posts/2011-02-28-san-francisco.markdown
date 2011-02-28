@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Winning San Francisco's Startup Scene
+hn: http://news.ycombinator.com/item?id=2272636
 ---
 
 I moved to the Bay Area right after I finished school a few years ago. Luckily,

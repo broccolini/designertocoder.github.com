@@ -198,11 +198,7 @@ h3{
  */
 #boastful{
   margin: 20px 15px 7em 15px;
-  color: #999;
   text-shadow: 1px 1px 0 #fff;
-}
-#boastful a{
-  color: #93BCED;
 }
 #boastful .twitter-share-button{
   float: right;

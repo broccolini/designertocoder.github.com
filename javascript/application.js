@@ -16,11 +16,11 @@ jQuery(document).ready(function($){
     $('#mousing').html("&nbsp;");
   });
 
-  $('#about').mouseover(function(){
-    $('#mousing').text("About");
+  $('#rss').mouseover(function(){
+    $('#mousing').text("RSS");
   });
 
-  $('#about').mouseout(function(){
+  $('#rss').mouseout(function(){
     $('#mousing').html("&nbsp;");
   });
 

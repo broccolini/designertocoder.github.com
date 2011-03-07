@@ -117,6 +117,22 @@ h3{
   padding-left: 2px;
   letter-spacing: 1px;
 }
+#header #sections{
+  margin: 25px 0 0 -15px;
+}
+#header #sections div{
+  margin-bottom: 7px;
+}
+#header #sections a{
+  background-color: #000;
+  padding: 3px 5px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 12px;
+}
+#header #sections a:hover{
+  color: #ccc;
+}
 
 
 #post{
@@ -180,6 +196,43 @@ h3{
   font-style: normal;
 }
 
+/*
+ 
+ TALKS
+
+ */
+#talks h2, h3{
+  display: inline;
+}
+#talks h2{
+  font-size: 22px;
+  font-family: Helvetica, sans-serif;
+  color: #ccc;
+}
+#talks h3{
+}
+.talk{
+  margin: 50px 0;
+}
+.talk img{
+  margin-top: 10px;
+  border-radius: none;
+  box-shadow: none;
+}
+
+/*
+ 
+ SCREENCASTS
+
+ */
+#screencasts h2{
+  margin-bottom: 0;
+}
+#screencasts .teaser{
+  color: #999;
+  font-size: 13px;
+  margin-top: 0;
+}
 
 /*
  

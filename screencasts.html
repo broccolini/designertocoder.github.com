@@ -1,0 +1,23 @@
+---
+layout: layout
+title: "Screencasts"
+---
+
+<div class="content">
+  <div id="screencasts">
+
+    <h1>Screencasts</h1>
+
+    <p>Sometimes I'll whip together little screencasts. I'm usually bored to
+    tears by screencasts, so I try to make mine particularly un-boring.</p>
+
+    <p>&nbsp;</p>
+
+    {% for post in site.categories.screencast %}
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="teaser">&raquo; {{ post.teaser }}</p>
+      {{ post.embed }}
+    {% endfor %}
+
+  </div>
+</div>

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Automating Inefficiencies
+category: screencast
+embed: '<iframe src="http://player.vimeo.com/video/18378673" width="650" height="366" frameborder="0"></iframe>'
+teaser: "See how I use tools like Campfire, boom, and shell scripts to improve my life and annoy my coworkers."
 ---
 
 My friend Steve Chanin just launched [How I Work](http://how-i-work.com), a
@@ -19,7 +22,7 @@ programming and boom, you're suddenly **automating inefficiencies**.
 on How I Work (along with the bunch of other screencasts going up there!), or
 check out the conveniently-embedded video here:
 
-<iframe src="http://player.vimeo.com/video/18378673" width="500" height="281"
+<iframe src="http://player.vimeo.com/video/18378673" width="650" height="366"
 frameborder="0"></iframe>
 
 A couple specific links to things mentioned in the screencast:

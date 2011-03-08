@@ -7,7 +7,7 @@ My little weekend project this weekend was
 [Fatigue](http://github.com/holman/fatigue), a tiny bit of rubygem that imports
 your Nike+ run history into Garmin Connect.
 
-<img src="http://cl.ly/2Ma2/content" />
+<img src="http://cl.ly/2Ma2/Nike_Garmin.png" />
 
 Like many others, I presume, I had a few lovely years on Nike+ but recently
 switched over to a Garmin Forerunner 405CX. It's like leveling up your running:

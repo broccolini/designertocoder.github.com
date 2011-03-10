@@ -142,10 +142,10 @@ h3{
 }
 #post ul{
   font-size: 14px;
-  margin: 40px 0;
+  margin: 20px 20px 20px 0;
 }
 #post li{
-  line-height: 1.25em;
+  line-height: 1.4em;
   margin-bottom: 1em;
   color: #222;
   list-style-type: square;

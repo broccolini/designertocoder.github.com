@@ -203,7 +203,7 @@ h3{
  TALKS
 
  */
-#talks h2, h3{
+#talks h2, #talks h3{
   display: inline;
 }
 #talks h2{

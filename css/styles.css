@@ -69,6 +69,7 @@ h1{
 h2{
 }
 h3{
+  color: #999;
 }
 
 #header{
@@ -141,10 +142,11 @@ h3{
 }
 #post ul{
   font-size: 14px;
+  margin: 40px 0;
 }
 #post li{
   line-height: 1.25em;
-  margin-bottom: .75em;
+  margin-bottom: 1em;
   color: #222;
   list-style-type: square;
 }

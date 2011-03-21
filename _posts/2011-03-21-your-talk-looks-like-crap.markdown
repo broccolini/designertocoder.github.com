@@ -32,14 +32,14 @@ text on white or black backgrounds for every slide. *That's great*. Those very
 basic concepts — huge, readable, minimal text — will immediately push you ahead
 of 90% of everyone else. No joke.
 
-On-screen code is incredibly important, too. There's there's something about
-putting code samples on-screen that leads decent presenters to just say *Oh
-fuck it! That's fine!* Code samples are a fragile move in the first place,
-since they require a more intensive cognitive process on the audience's part to
-understand what's going on. On top of that, syntax highlighting makes it hard
-to read. A speaker at the last conference I went to had 20 lines of code on one
-slide, with black-on-grey text (except for the line he was talking about, which
-was white-on-grey). It's insane.
+On-screen code is incredibly important, too. There's something about putting
+code samples on-screen that leads decent presenters to just say *Oh fuck it!
+That's fine!* Code samples are a fragile move in the first place, since they
+require a more intensive cognitive process on the audience's part to understand
+what's going on. On top of that, syntax highlighting makes it hard to read. A
+speaker at the last conference I went to had 20 lines of code on one slide,
+with black-on-grey text (except for the line he was talking about, which was
+white-on-grey). It's insane.
 
 Put yourself in your audience's shoes. Think about how the design of your
 slides augments your talk, rather than detracts from it.

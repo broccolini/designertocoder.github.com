@@ -141,7 +141,7 @@ h3{
   border-bottom: 1px solid #eee;
 }
 #post ul{
-  font-size: 14px;
+  font-size: 15px;
   margin: 20px 20px 20px 0;
 }
 #post li{
@@ -165,6 +165,10 @@ h3{
   max-width: 610px;
   -webkit-border-radius: 8px;
   -webkit-box-shadow: 0px 0px 10px #555;
+}
+#post img.noclip{
+  max-width: 650px !important;
+  -webkit-box-shadow: none;
 }
 #post .authoring{
   padding-left: 3px;
@@ -242,7 +246,7 @@ h3{
 
  */
 #hn{
-  margin: 0px 15px;
+  margin: 30px 15px;
 }
 
 
@@ -252,7 +256,7 @@ h3{
 
  */
 #boastful{
-  margin: 20px 15px 7em 15px;
+  margin: 30px 15px 7em 15px;
   text-shadow: 1px 1px 0 #fff;
 }
 #boastful .twitter-share-button{

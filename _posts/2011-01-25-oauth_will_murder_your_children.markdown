@@ -2,6 +2,7 @@
 layout: post
 title: OAuth Will Murder Your Children
 hn: http://news.ycombinator.com/item?id=2140268
+permalink: /2011/01/oauth_will_murder_your_children
 ---
 
 Say there's a hot new startup that **just launched today** that you've **just

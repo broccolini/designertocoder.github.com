@@ -2,6 +2,7 @@
 layout: post
 title: Steal the Code
 hn: http://news.ycombinator.com/item?id=1844011
+permalink: /2010/10/steal-the-code
 ---
 
 Learning anything is easy. Internalizing it is difficult.

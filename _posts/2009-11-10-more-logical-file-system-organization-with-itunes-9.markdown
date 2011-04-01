@@ -1,6 +1,7 @@
 ---
 layout: post
 title: More Logical File System Organization with iTunes 9
+permalink: /2009/11/more-logical-file-system-organization-with-itunes-9
 ---
 ![iTunes 9 Library Consolidation](http://files.droplr.com/files/11322372/eMDde.itunes%20library%20conslidation.png)
 

@@ -4,6 +4,7 @@ title: Automating Inefficiencies
 category: screencast
 embed: '<iframe src="http://player.vimeo.com/video/18378673" width="650" height="366" frameborder="0"></iframe>'
 teaser: "See how I use tools like Campfire, boom, and shell scripts to improve my life and annoy my coworkers."
+permalink: /2011/01/automating-inefficiencies
 ---
 
 My friend Steve Chanin just launched [How I Work](http://how-i-work.com), a

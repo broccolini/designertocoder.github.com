@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Favorites From Rails Rumble 2010
+permalink: /2010/10/my-favorites-from-rails-rumble-2010
 ---
 
 This year's [Rails Rumble](http://railsrumble.com) just finished. It's a 48-hour

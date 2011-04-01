@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Your Talk Looks Like Crap
+permalink: /2011/03/your-talk-looks-like-crap
 ---
 
 Chances are, your slides look like crap.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gizmodo
+permalink: /2010/04/gizmodo
 ---
 
 <img src="http://cl.ly/6av/douchebags.jpg" title="Jason Chen and Jesus Diaz are douchebags, obviously" width="600" height="150" alt="couplea douchebags" />

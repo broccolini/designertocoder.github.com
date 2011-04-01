@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Androidvertising
+permalink: /2010/05/androidvertising
 ---
 
 The last couple of days I've seen a number of different television ads for Android. I think most of them were Verizon-made, but a few others might have slipped in. The focus of these ads seemed to center around a few things: the openness of the platform, multitasking, and various spec-related aspects like processor speeds. It's clear these ads are shots across iPhone's bow, but the  attacks themselves are perplexing.

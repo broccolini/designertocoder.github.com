@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Soloist
+permalink: /2010/04/the-soloist
 ---
 
 I could go on for awhile about first-party iPad apps (Maps and Photos are fantastic, and YouTube finally transforms YouTube into, well, not YouTube), and about third-party apps (ABC, Netflix, New York Times, and growing competition in Twitter app land are all keen launch-day examples), but I think that time is going to show that these apps aren't isolated cases. These apps are a part of a platform that specializes in really great, best-on-the-planet type of quality.

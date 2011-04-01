@@ -2,6 +2,7 @@
 layout: post
 title: "Graduated with a Major in Startups"
 hn: http://news.ycombinator.com/item?id=2190422
+permalink: /2011/02/graduated-with-a-major-in-startups
 ---
 
 A few years ago, I graduated from Carnegie Mellon. Boasting some of the top

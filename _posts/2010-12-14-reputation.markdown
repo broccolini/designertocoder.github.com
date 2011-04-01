@@ -2,6 +2,7 @@
 layout: post
 title: "Reputation: kind of a big deal"
 hn: http://news.ycombinator.com/item?id=2004849
+permalink: /2010/12/reputation
 ---
 
 Reputation is an undervalued commodity.

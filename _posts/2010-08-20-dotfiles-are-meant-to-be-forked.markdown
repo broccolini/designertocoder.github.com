@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dotfiles Are Meant to Be Forked
+permalink: /2010/08/dotfiles-are-meant-to-be-forked
 ---
 
 I'm a big fan of customizing your dotfiles. "Dotfiles" are the funky little files in your *nix-based home directory that allow you to customize your nerdery: change how your prompt looks, set up your $PATH, adjust settings for Ruby's IRB, completely change everything about Vim, and about a billion and a half other things. They're fun.

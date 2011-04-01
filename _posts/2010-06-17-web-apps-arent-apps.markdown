@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Web Apps Aren't Apps
+permalink: /2010/06/web-apps-arent-apps
 ---
 I really appreciate all the lengths Apple has gone to give web apps a true native feel. HTML5 hooks into geolocation, animation, local storage. Direct iOS hooks into the Springboard ("Add to Homescreen"), and the ability to remove browser window chrome. These are all great things. It lowers the bar and allows a far greater number of developers to run their own code on their iPhone. Really great stuff. But we're missing out on a few core pieces.
 

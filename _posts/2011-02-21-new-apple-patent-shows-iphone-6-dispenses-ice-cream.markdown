@@ -2,6 +2,7 @@
 layout: post
 title: "New Apple Patent Shows iPhone 6 Dispensing Ice Cream"
 hn: http://news.ycombinator.com/item?id=2246872
+permalink: /2011/02/new-apple-patent-shows-iphone-6-dispenses-ice-cream
 ---
 
 No, fuck that. This has got to stop.

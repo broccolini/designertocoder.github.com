@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Enslaving Branches&#58; How GitHub Does Enterprise
+permalink: /2010/07/enslaving-branches-how-github-does-enterprise
 ---
 
 I work on [GitHub Firewall Install](http://fi.github.com/), GitHub's enterprise-level product. FI is aimed at larger companies that want to host their own version of GitHub on their own hardware. We ship them a full, self-contained stack, and once installed they have their own private github.com on their network. Pretty cool.

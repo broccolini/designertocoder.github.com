@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Human is a RESTful Client
+permalink: /2010/03/the-human-is-a-restful-client
 ---
 
 There's plenty of great [technical writeups](http://en.wikipedia.org/wiki/Representational_State_Transfer) and [non-technical writeups](http://tomayko.com/writings/rest-to-my-wife) on REST. In short, REST is one way to model and present your data to your users in a consistent, logical fashion that lends itself to being accessible humans, machines, and your own developers. (I don't know if I just called developers neither human nor machine, but let's go with it.)

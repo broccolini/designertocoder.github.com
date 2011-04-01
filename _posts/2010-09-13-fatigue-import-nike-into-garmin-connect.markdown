@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Nike+ Importer for Garmin
+permalink: /2010/09/fatigue-import-nike-into-garmin-connect
 ---
 
 My little weekend project this weekend was

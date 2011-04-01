@@ -2,6 +2,7 @@
 layout: post
 title: "Facelette: On TechCrunch in Three Hours and $0"
 hn: http://news.ycombinator.com/item?id=1816788
+permalink: /2010/10/facelette-on-techcrunch-in-three-hours-and-zero-dollars
 ---
 
 Yesterday, Apple announced [FaceTime for

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: iPad Ambiguity
+permalink: /2010/01/ipad-ambiguity
 ---
 
 So The Tablet is now iPad. That was a fun little announcement.

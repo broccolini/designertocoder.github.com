@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Because 11Mbps is better than 10Mbps
+permalink: /2009/11/because-11mbps-is-better-than-10mbps
 ---
 
 Why do cable companies bother advertise their connection speeds so heavily? Internet connectivity has lagged behind hardware specs by about 5-10 years, but they've followed the same path. In the 1990's, a 486 blew away a 386. 512MB of RAM offered enormous advantages over 256MB. But today it just doesn't matter. Apple, in particular, buries technical specs away, because the vast majority of people just don't care if their Core 2 Duo is running at 3.06GHz or at 2.1GHz. Software and hardware have progressed to a point where incremental improvements are effectively negligible. It's the experience that matters. It's the design. It's the freedom. It's the productivity.

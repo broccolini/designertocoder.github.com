@@ -1,6 +1,7 @@
 ---
 layout: post
 title: WiiFailure™
+permalink: /2010/01/wii-failure
 ---
 
 The Wii is a terribly interesting device. Unimpressive hardware, non-breakthrough game design, overtly simplistic. Yet the Wii has [sold roughly the same as the 360 and PS3 combined](http://en.wikipedia.org/wiki/Console_wars#Worldwide_sales_figures_5). From the onset, Nintendo nailed the prediction that they would be seriously outgunned in an arms race. Pushing more bits faster would doom them, so they more or less invented — or at least revolutionized — casual gaming. That clears them from becoming fodder for Microsoft and Sony's battle and gives them a huge space to stretch out in their new sphere. It also opens them up to new competition from new faces.

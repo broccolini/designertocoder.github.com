@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Future of iTunes
+permalink: /2010/02/the-future-of-itunes
 ---
 
 iTunes is old. It was first released in 2001, with the majority of its code then based on SoundJam MP, which can trace its origins way back to 1999. After QuickTime's recent Snow Leopard rebuild, iTunes is left as one of Apple's oldest apps. That leaves it on a relatively ancient Carbon foundation, which carries some [implications John Gruber detailed](http://daringfireball.net/2009/09/itunes_and_cocoa).

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Your Ad Blocker Probably Blocked This Post
+permalink: /2010/03/your-ad-blocker-probably-blocked-this-post
 ---
 
 Ars Technica penned an [interesting article](http://arstechnica.com/business/news/2010/03/why-ad-blocking-is-devastating-to-the-sites-you-love.ars?utm_source=rss&utm_medium=rss&utm_campaign=rss) this weekend on ad blocking and how it impacts an outfit like theirs. This [spawned discussions](http://www.reddit.com/r/technology/comments/ba3b7/why_ad_blocking_is_devastating_to_the_sites_you/) of varying quality ranging from thoughtful discourse on the problems of client-side ad implementations, all the way to "WTF FUCK ADVERTISING".

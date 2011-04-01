@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Simplifying Rails Controllers with named_scopes
+permalink: /2010/01/simplifying-rails-controllers-with-named_scopes
 ---
 
 So [`named_scope`](http://api.rubyonrails.org/classes/ActiveRecord/NamedScope/ClassMethods.html) is great. It's a quick and clear way to share common SQL fragments within your app by defining them in your models. It saves you a lot of repetition: instead of calling `Article.find(:all, :order => 'views desc')` all over your app, you can define `named_scope :popular, :order => 'views desc'` in Article, and then call it with `Article.popular`. There's a lot of good stuff in it; I encourage you to check the [initial edge Rails post from Ryan Daigle](http://ryandaigle.com/articles/2008/3/24/what-s-new-in-edge-rails-has-finder-functionality) for more examples.

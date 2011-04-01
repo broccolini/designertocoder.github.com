@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Clean Slate
+permalink: /2010/05/the-clean-slate
 ---
 
 There's a certain allure to iPad and iPhone development right now. It's the idea of the clean slate: there's no legacy support, no underlying codebase, no real concepts of former implementations. For every app that is tied to an existing website or business, there's an app that is forging out on its own, with no ties to anything to come before it.

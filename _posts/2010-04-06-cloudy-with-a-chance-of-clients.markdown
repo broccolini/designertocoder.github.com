@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cloudy With a Chance of Clients
+permalink: /2010/04/cloudy-with-a-chance-of-clients
 ---
 
 When I get a new email I potentially hear the *ding* of Mail.app up to four times, depending on where I am in relation to my various devices.

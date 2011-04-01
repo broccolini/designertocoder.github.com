@@ -2,6 +2,7 @@
 layout: post
 title: How to Discover Your Music
 hn: http://news.ycombinator.com/item?id=1670801
+permalink: /2010/09/how-to-discover-your-music
 ---
 
 We finally figured out how to sell music online. Everyone knew that DRM was

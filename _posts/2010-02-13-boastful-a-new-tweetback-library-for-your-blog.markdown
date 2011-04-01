@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Boastful, a new tweetback library for your blog
+permalink: /2010/02/boastful-a-new-tweetback-library-for-your-blog
 ---
 
 I [alluded to this yesterday](http://twitter.com/holman/status/9004291322), but finally have been able to release [Boastful](http://github.com/holman/boastful), a jQuery plugin that grabs "tweetbacks" for your blog. Tweetbacks are like trackbacks- every time someone mentions your blog on Twitter, you can pull in those mentions and print them out on your blog. This has gained in prevalence lately with 3rd party services like Disqus, which grabs all those tweets and integrates them with your normal blog comments. That's a really crappy solution.

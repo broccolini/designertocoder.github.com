@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Text Snippets. Boom.
+permalink: /2010/11/text-snippets-boom
 ---
 
 Yesterday I released [boom](https://github.com/holman/boom), an open source

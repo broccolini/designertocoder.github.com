@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Immeasurably Improve Your Life by 34 Percent
+permalink: /2010/01/immeasurably-improve-your-life-by-34-percent
 ---
 
 So there were a few things that came out of 2009 that improved my computing lifestyle so dramatically that I question your morals if you aren't using them, too.

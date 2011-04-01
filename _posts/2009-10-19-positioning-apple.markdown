@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Positioning Apple
+permalink: /2009/10/positioning-apple/
 ---
 
 It's easy to say that Apple has a great marketing department. It's also boring. The interesting question is: *why* is Apple so good at marketing their products?

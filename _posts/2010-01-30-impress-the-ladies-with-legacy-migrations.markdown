@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Impress the Ladies with Legacy Migrations
+permalink: /2010/01/impress-the-ladies-with-legacy-migrations
 ---
 
 If there's one thing I've learned from my experiences with women, it's that they secretly can't control themselves if a man is there to sweep them off their feet with tales of legacy data migration suavity. (If you're wondering why I didn't title this in the reverse, it's simply because I didn't feel that it was any particular secret that every man is most attracted to legacy data conversions.)

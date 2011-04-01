@@ -2,6 +2,7 @@
 layout: post
 title: "OS X Isn't for Developers"
 hn: "http://news.ycombinator.com/item?id=2311279"
+permalink: /2011/03/osx-isnt-for-developers
 ---
 
 Apple had about 2.06 percent of the US desktop market in 2003. By 2010, OS X

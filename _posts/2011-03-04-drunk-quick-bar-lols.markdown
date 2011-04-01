@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I Liked It When Quick Bars Got Me Drunk
+permalink: /2011/03/drunk-quick-bar-lols
 ---
 
 Twitter pushed an update for Twitter for iPhone yesterday that mostly centered

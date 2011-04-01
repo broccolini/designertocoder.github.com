@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Getting Real. Real Tasty.
+permalink: /2010/01/getting-real-real-tasty
 ---
 
 I amused myself today when I realized 37signals does my groceries.

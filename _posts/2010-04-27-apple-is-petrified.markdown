@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Apple is Petrified
+permalink: /2010/04/apple-is-petrified
 ---
 
 Apple is petrified.

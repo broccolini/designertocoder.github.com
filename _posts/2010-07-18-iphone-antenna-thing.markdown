@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Is that the new iPhone with the antenna thing?"
+permalink: /2010/07/iphone-antenna-thing
 ---
 
 I'm in Fargo, North Dakota this weekend for a buddy's wedding. Fargo is, in my view, primarily known for three things: the movie, the cold, and that it's the only market nearing a quarter of a million people that has absolutely zero AT&T coverage. Forget San Francisco reception woes- Fargo has no AT&T presence at all. It's a struggle for me to even see a two-bar EDGE connection while I'm here.

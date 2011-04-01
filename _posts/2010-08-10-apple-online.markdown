@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Apple OnLine 4.0
+permalink: /2010/08/apple-online
 ---
 
 Apple doesn't understand the internet.

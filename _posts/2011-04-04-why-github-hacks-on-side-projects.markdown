@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why GitHub Hacks on Side Projects 
+hn: http://news.ycombinator.com/item?id=2408530
 ---
 
 <img src="http://cl.ly/5eos/hubot.png" alt="Hubot" title="Hubot is kind of a freak of code nature at this point." class="noclip" width="650" height="231" />

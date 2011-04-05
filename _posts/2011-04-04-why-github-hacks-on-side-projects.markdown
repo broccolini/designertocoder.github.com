@@ -68,5 +68,5 @@ since we spend so much time in Campfire, but there's plenty of other areas.
 Hack on your continuous integration server. An app that picks where you're
 having lunch that day. A miniapp that collects and stores employee-created
 animated gifs. A continuous integration animated lunch machine. It doesn't
-matter what it is; if it improves the lives of you coworkers or makes them
+matter what it is; if it improves the lives of your coworkers or makes them
 laugh, it helps build a stronger company culture. And that's cool.

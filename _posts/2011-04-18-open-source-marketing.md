@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Open Source Doesn't Just Market Itself"
+hn: "http://news.ycombinator.com/item?id=2460182"
 ---
 
 <img src="http://cl.ly/664F/meaning-of-life.png" alt="Open Source" title="Just imagine the Pull Requests this repository would attract." class="noclip" width="650" height="150" />

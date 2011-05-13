@@ -15,3 +15,10 @@ task :new do
     f.puts "---"
   end
 end
+
+desc "Startup Jekyll"
+task :start do
+  sh "jekyll --server"
+end
+
+task :default => :start

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Most Important Code Isn't Code
+hn: http://news.ycombinator.com/item?id=2630867
 ---
 
 <img src="http://www.cl.ly/7JWh/documentation.png" class="noclip" alt="Documentation" width="650" height="200" />

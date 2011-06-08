@@ -30,6 +30,9 @@ don't want to SPOILER ALERT you all over the place! — but then you can check
 out the project [README][4] to see how all the individual parts are put
 together.
 
+This also gave me a chance to shoot on my new Nikon D5100, for you camera nerds
+out there. You guys are so nerdy.
+
 ## Resources
 
 - [Vagrant][3]

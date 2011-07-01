@@ -28,10 +28,10 @@ simulate moving your frame of reference around. Cameron's plax only worked
 based on mouse movement, though:
 
 <div style="position: relative; height: 100px; z-index: 1">
-  <img src="http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c?s=142" width="35" style="position: absolute; top: 05px; left: 250px; display: inline" id="plax1" />
-  <img src="http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c?s=142" width="55" style="position: absolute; top: 10px; left: 300px; display: inline" id="plax2" />
-  <img src="http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c?s=142" width="75" style="position: absolute; top: 15px; left: 190px; display: inline" id="plax3" />
-  <img src="http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c?s=142" width="90" style="position: absolute; top: 0px; left: 330px; display: inline" id="plax4" />
+  <a href="http://twitter.com/holman"><img src="http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c?s=142" width="35" style="position: absolute; top: 05px; left: 250px; display: inline" id="plax1" /></a>
+  <a href="http://twitter.com/holman"><img src="http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c?s=142" width="55" style="position: absolute; top: 10px; left: 300px; display: inline" id="plax2" /></a>
+  <a href="http://twitter.com/holman"><img src="http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c?s=142" width="75" style="position: absolute; top: 15px; left: 190px; display: inline" id="plax3" /></a>
+  <a href="http://twitter.com/holman"><img src="http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c?s=142" width="90" style="position: absolute; top: 0px; left: 330px; display: inline" id="plax4" /></a>
 </div>
 
 ...which means all of these gorgeous animations of this handsome fellow didn't
@@ -81,4 +81,4 @@ There's some improvements that could be made to retaining rotation position in
 parallax (which would give it more of a realistic feel), and there's oodles of
 accelerometers in Android phones and in laptops, too. If you're looking for a
 fun hack day, you might want to build in support for those devices (or create a
-library abstraction for movement in JavaScript!) and send us a pull request!
+library abstraction for movement in JavaScript!) and send us a pull request.

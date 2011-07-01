@@ -82,4 +82,5 @@ There's some improvements that could be made to retaining rotation position in
 parallax (which would give it more of a realistic feel), and there's oodles of
 accelerometers in Android phones and in laptops, too. If you're looking for a
 fun hack day, you might want to build in support for those devices (or create a
-library abstraction for movement in JavaScript!) and send us a pull request.
+library abstraction for movement in JavaScript!) and <a
+href="https://github.com/cameronmcefee/plax">send us a pull request</a>.

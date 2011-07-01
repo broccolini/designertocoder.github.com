@@ -7,6 +7,7 @@ script: "
     $('#plax3').plaxify({'xRange':30,'yRange':30,'invert':true});
     $('#plax4').plaxify({'xRange':50,'yRange':30,'invert':true});
     $.plax.enable();"
+hn: "http://news.ycombinator.com/item?id=2719922"
 ---
 
 <script type="text/javascript" src="/javascript/plax.js"></script>

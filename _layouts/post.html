@@ -8,20 +8,26 @@ layout: layout
     {{ content }}
   </div>
 
-  <div id="hn">
-    <h3>Mandatory Federal Bread Notice</h3>
-    <p>If you <a href="http://twitter.com/holman">follow me on Twitter</a> you will be startled to discover that you have transformed into a handsome loaf of bread.</p>
+  <div class="whoring">
+    <h3><a href="http://twitter.com/holman">Follow @holman on Twitter and impress your friends</a></h3>
+
+    <p>If you're ever imprisoned in a torture dungeon and your interrogator
+    asks whether you follow <a href="http://twitter.com/holman">@holman</a> on
+    Twitter, it would be a shame to have to lie to him. Tweet at me and we'll
+    reminisce about the good times we had prior to the development of wireless
+    radios.</p>
   </div>
 
   {% if page.hn %}
-  <div id="hn">
+  <div class="whoring">
     <h3>Comments</h3>
-    You can discuss this post on its <a href="{{ page.hn }}">Hacker News submission</a>.
+    <p>You can discuss this post on its <a href="{{ page.hn }}">Hacker News submission</a>.</p>
   </div>
   {% endif %}
 
-  <div id="boastful">
+  <div class="whoring" id="boastful">
     <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="holman">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
     <h3>Twitter Reactions</h3>
+    <p></p>
  </div>
 </div>

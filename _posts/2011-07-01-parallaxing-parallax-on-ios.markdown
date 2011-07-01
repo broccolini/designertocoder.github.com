@@ -65,9 +65,10 @@ window.ondevicemotion = function(e) {
 
 In this case, `rotationRate` is the rate of rotation, which is a bit more
 relevant for parallax. You can also grab `rotationRate.gamma`, which is the
-rotation positive out of the screen on the z axis. Once we have the rotation
-rate pulled from the phone we can pipe that information into plax and plax
-handles the coordination of layers based on that.
+rotation positive out of the screen on the z axis. Unfortunately `rotationRate`
+is for those devices with gyroscopes: in other words, iPhone 4 and above. Once
+we have the rotation rate pulled from the phone we can pipe that information
+into plax and plax handles the coordination of layers based on that.
 
 Depending on your use case, you also might want to take a look at
 `accelerationIncludingGravity`, which gives you a measurement of the

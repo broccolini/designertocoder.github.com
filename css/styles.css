@@ -254,6 +254,9 @@ h3{
 .talk .byline a{
   text-decoration: none;
 }
+.talk .byline a:hover{
+  color: #11BAF7;
+}
 .talk .byline strong{
   color: #000;
 }

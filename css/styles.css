@@ -235,11 +235,6 @@ h3{
 #talks h2 a{
   color: #fff;
 }
-.talk .date{
-  font-family: "Helvetica-Light", Helvetica, sans-serif;
-  padding-left: 5px;
-  font-size: 13px;
-}
 .talk .details{
   font-family: Helvetica, sans-serif;
   font-size: 13px;
@@ -251,6 +246,16 @@ h3{
 }
 .talk .details p{
   margin: 17px 0 10px 0;
+}
+.talk .byline{
+  font-weight: bold;
+  color: #777;
+}
+.talk .byline a{
+  text-decoration: none;
+}
+.talk .byline strong{
+  color: #000;
 }
 .talk span{
   color: #333;

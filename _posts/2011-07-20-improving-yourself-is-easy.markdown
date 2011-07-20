@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Improving Yourself is Easy
+hn: http://news.ycombinator.com/item?id=2787113
 ---
 
 For the last four years I've set informal goals to become a better Ruby

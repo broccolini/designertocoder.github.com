@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blog Marketing for Ego-Centric Assholes
+hn: http://news.ycombinator.com/item?id=2791007
 ---
 
 <img src="http://cl.ly/8bI0/pageviews.png" width="650" height="150" alt="Page views" class="noclip" />

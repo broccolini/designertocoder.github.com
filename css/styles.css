@@ -53,23 +53,19 @@ hr{
   text-decoration: underline;
 }
 h1,h2,h3,h4{
-  color: #555;
-  font-family: Futura, Helvetica, sans-serif;
-  font-weight: normal;
+  color: #333;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-weight: 400;
+  border-bottom: 1px solid #ccc;
 }
 h1 a, h2 a, h3 a, h4 a{
-  color: #555;
+  color: #111;
   text-decoration: none;
 }
 h1{
-  font-size: 32px;
-  border-bottom: 1px solid #eee;
-  margin-bottom: .25em;
-}
-h2{
-}
-h3{
-  color: #999;
+  font-size: 36px;
+  margin-top: 17px;
+  margin-bottom: .15em;
 }
 
 #header{
@@ -172,19 +168,10 @@ h3{
   -webkit-box-shadow: none;
 }
 #post .authoring{
-  padding-left: 3px;
-  font-size: 14px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  padding-left: 0px;
+  font-size: 17px;
   color: #777;
-}
-#post .authoring a{
-  color: #777;
-  text-decoration: none;
-  border-bottom: 1px solid #ccc;
-  padding: 0;
-}
-#post .authoring a:hover{
-  color: #555;
-  border-color: #555;
 }
 #post blockquote{
   font-style: italic;

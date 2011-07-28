@@ -187,17 +187,18 @@ h3{
   border-color: #555;
 }
 #post blockquote{
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #eee;
+  font-style: italic;
   font-size: 14px;
-  padding: 1em 3em;
-  margin: 2em 6em;
+  padding: .25em 1em;
+  margin: 1em;
   color: #444;
 }
 #post blockquote cite:before{
   content: '— ';
 }
 #post blockquote cite{
+  display: block;
+  margin-top: .5em;
   text-align: right;
   color: #111;
   font-style: normal;

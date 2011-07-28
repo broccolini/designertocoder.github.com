@@ -8,6 +8,13 @@ layout: layout
     {{ content }}
   </div>
 
+  {% if page.hn %}
+  <div class="whoring">
+    <h3>Comments</h3>
+    <p>You can discuss this post on its <a href="{{ page.hn }}">Hacker News submission</a>.</p>
+  </div>
+  {% endif %}
+
   <div class="whoring">
     <h3><a href="http://twitter.com/holman">Follow @holman on Twitter and impress your friends</a></h3>
 
@@ -17,13 +24,6 @@ layout: layout
     reminisce about the good times we had prior to the development of wireless
     radios.</p>
   </div>
-
-  {% if page.hn %}
-  <div class="whoring">
-    <h3>Comments</h3>
-    <p>You can discuss this post on its <a href="{{ page.hn }}">Hacker News submission</a>.</p>
-  </div>
-  {% endif %}
 
   <div class="whoring" id="boastful">
     <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="holman">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>

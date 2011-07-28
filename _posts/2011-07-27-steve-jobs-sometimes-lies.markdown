@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Steve Jobs Sometimes Lies to You
+hn: http://news.ycombinator.com/item?id=2818390
 ---
 
 <img src="http://cl.ly/8qoq/animated.gif" height="200" width="650" class="noclip" />

@@ -287,12 +287,13 @@ h3{
 
  */
 #screencasts h2{
-  margin-bottom: 0;
+  margin-bottom: 5px;
 }
 #screencasts .teaser{
   color: #999;
   font-size: 13px;
   margin-top: 0;
+  margin-bottom: 20px;
 }
 
 /*

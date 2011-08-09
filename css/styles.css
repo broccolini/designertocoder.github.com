@@ -74,6 +74,7 @@ h2{
 h3{
   color: #777;
   font-size: 25px;
+  padding-bottom: 5px;
   margin-bottom: 10px;
 }
 
@@ -202,21 +203,28 @@ h3{
   font-style: normal;
 }
 .whoring{
-  margin: 10px 0 30px 0;
+  margin: 30px 0;
+  padding: 10px 0;
   font-family: Helvetica, sans-serif;
   font-size: 14px;
   line-height: 20px;
 }
-.whoring h3{
-  font-size: 16px;
-  font-family: Helvetica, sans-serif;
-  padding: 5px 7px;
-  color: #fff;
-  display: inline;
-  background-color: #000;
+.whoring p{
+  margin-top: 0px;
 }
-.whoring h3 a{
-  color: #fff;
+.whoring img{
+  position: relative;
+  float: left;
+  margin-top: 5px;
+  margin-right: 10px;
+  margin-left: -60px;
+  border-radius: 4px;
+}
+.whoring .copy{
+  padding-left: 60px;
+}
+.whoring .twitter-follow-button{
+  width: 75px !important;
 }
 
 /*

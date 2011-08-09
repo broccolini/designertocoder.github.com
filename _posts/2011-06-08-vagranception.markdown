@@ -3,7 +3,7 @@ layout: post
 title: VAGRANCEPTION
 category: screencast
 embed: '<iframe src="http://player.vimeo.com/video/24707869" width="650" height="366" frameborder="0"></iframe>'
-teaser: "A screecast about Vagrant and technology things. And Ellen Page."
+teaser: "A screencast about Vagrant and technology things. And Ellen Page."
 permalink: '/screencast/vagranception'
 ---
 

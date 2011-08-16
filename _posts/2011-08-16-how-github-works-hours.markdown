@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How GitHub Works: Hours are Bullshit"
+hn: http://news.ycombinator.com/item?id=2892409
 ---
 
 <div class="aside">

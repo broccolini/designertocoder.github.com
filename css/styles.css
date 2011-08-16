@@ -178,6 +178,16 @@ h3{
   max-width: 650px !important;
   -webkit-box-shadow: none;
 }
+#post .aside{
+  background-color: #eee;
+  padding: 14px;
+  font-size: 14px;
+  margin: 5px 0 15px 0;
+  font-family: Helvetica, sans-serif;
+  line-height: 1.6em;
+}
+#post .aside strong{
+}
 #post .authoring{
   margin-bottom: 17px;
   font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -189,7 +199,7 @@ h3{
   font-style: italic;
   font-size: 14px;
   padding: .25em 1em;
-  margin: 1em;
+  margin: 1em 1em 0 1em;
   color: #444;
 }
 #post blockquote cite:before{

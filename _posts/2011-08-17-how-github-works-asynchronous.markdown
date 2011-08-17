@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How GitHub Works: Be Asynchronous"
+hn: http://news.ycombinator.com/item?id=2896710
 ---
 
 <div class="aside">

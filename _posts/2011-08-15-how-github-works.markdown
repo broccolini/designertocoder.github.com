@@ -28,7 +28,7 @@ three days.
 Most companies want you to get to work early and stay late. The metric should
 be productivity, not hours.
 
-### Be Asynchronous (coming August 17)
+### [Be Asynchronous][async]
 
 You can get more done by being more direct, less intrusive, and more
 cooperative with your coworkers.
@@ -42,3 +42,4 @@ lead to better code.
 [questions]: https://github.com/holman/feedback/issues/22
 [chris]: http://ledet.io
 [hours]: /posts/how-github-works-hours/
+[async]: /posts/how-github-works-asynchronous/

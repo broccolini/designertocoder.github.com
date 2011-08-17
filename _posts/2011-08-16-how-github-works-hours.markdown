@@ -9,7 +9,8 @@ hn: http://news.ycombinator.com/item?id=2892409
   You're reading part one of <strong><a href="/posts/how-github-works">How
   GitHub Works</a></strong>, a three-post journey into how we work at GitHub.
   They're all separate posts on different topics, but if you're interested you
-  can also read the other two soon. 
+  can also read the next one: <a href="/posts/how-github-works-asynchronous/">Be
+  Asynchronous</a>.
 
 </div>
 

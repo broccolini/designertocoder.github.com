@@ -5,7 +5,7 @@ title: "How GitHub Works: Creativity is Important"
 
 <div class="aside">
 
-  You're reading part one of <strong><a href="/posts/how-github-works">How
+  You're reading part three of <strong><a href="/posts/how-github-works">How
   GitHub Works</a></strong>, a three-post journey into how we work at GitHub.
   They're all separate posts on different topics, but if you're interested you
   can also read the other two: <a href="/posts/how-github-works-hours/">Hours

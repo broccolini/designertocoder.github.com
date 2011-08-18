@@ -9,8 +9,9 @@ hn: http://news.ycombinator.com/item?id=2896710
   You're reading part two of <strong><a href="/posts/how-github-works">How
   GitHub Works</a></strong>, a three-post journey into how we work at GitHub.
   They're all separate posts on different topics, but if you're interested you
-  can also read the previous one: <a href="/posts/how-github-works-hours/">Hours
-  are Bullshit</a>.
+  can also read the other two: <a href="/posts/how-github-works-hours/">Hours
+  are Bullshit</a> and <a href="/posts/how-github-works-creativity/">Creativity
+  is Important</a>.
 
 </div>
 

@@ -33,7 +33,7 @@ be productivity, not hours.
 You can get more done by being more direct, less intrusive, and more
 cooperative with your coworkers.
 
-### Creativity is Important (coming August 18)
+### [Creativity is Important][creativity]
 
 Code is creativity. Fostering an atmosphere where people can be creative will
 lead to better code.
@@ -43,3 +43,4 @@ lead to better code.
 [chris]: http://ledet.io
 [hours]: /posts/how-github-works-hours/
 [async]: /posts/how-github-works-asynchronous/
+[creativity]: /posts/how-github-works-creativity/

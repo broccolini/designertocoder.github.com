@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How GitHub Works: Creativity is Important"
+hn: http://news.ycombinator.com/item?id=2900943
 ---
 
 <div class="aside">

@@ -86,10 +86,14 @@ h3{
   font-family: Helvetica, sans-serif;
 }
 #header .avatar{
-  border: 1px solid #fff;
+  margin-left: 2px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
-  -webkit-box-shadow: 0px 0px 4px #555;
+  -webkit-box-shadow: 0px 0px 15px #ccc;
+  opacity: .8;
+}
+#header .avatar:hover{
+  opacity: 1;
 }
 #header a{
   text-decoration: none;

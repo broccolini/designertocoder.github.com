@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Glue Languages Make You a Better Coder
+hn: http://news.ycombinator.com/item?id=2967301
 ---
 
 Glue languages are used everywhere. While you may identify as a Pythonista, or

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Customer Support Doesn't Have to Suck
+hn: http://zachholman.com/posts/customer-support-doesnt-have-to-suck/
 ---
 
 We all have this feeling that fielding support requests is a monotonous job we

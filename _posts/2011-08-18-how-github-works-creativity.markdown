@@ -84,8 +84,10 @@ design standpoint.
 ## We're hiring
 
 Okay, I didn't mean for this to be one huge plug for GitHub; I just think this
-is a great way to build products. That said, we're [currently looking][job].
-I'd love to chat with you.
+is a great way to build products. That said, we're always looking for new
+talent; follow [@holman](http://twitter.com/holman) and
+[@github](http://twitter.com/github) on Twitter and we'll let you know when we
+have openings.
 
 If not, I hope this interests you. A large company like IBM may need to enforce
 a lot of overhead, but in the startup world we can avoid all of that.  You

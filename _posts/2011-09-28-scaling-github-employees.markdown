@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Scaling GitHub's Employees"
+hn: http://news.ycombinator.com/item?id=3053833
 ---
 
 GitHub has been pretty public about [how we work](/posts/how-github-works/). We

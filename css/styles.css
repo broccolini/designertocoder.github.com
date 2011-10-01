@@ -257,6 +257,20 @@ h3{
 #talks h2 a{
   color: #fff;
 }
+.talk .slides{
+  font-size: .9em;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  margin-left: 10px;
+  display: inline;
+}
+.talk .slides a{
+  text-decoration: none;
+  color: #555;
+}
+.talk .slides a:hover{
+  color: #000;
+}
 .talk .details{
   font-family: Helvetica, sans-serif;
   font-size: 13px;

@@ -30,15 +30,16 @@ hr{
 }
 .related{
   margin-top: 10px;
+  font-family: "Helvetica", sans-serif;
 }
 .related ul{
   margin: 0;
   padding: 0;
 }
 .related li{
-  font-size: 14px;
+  font-size: 13px;
   list-style: none;
-  padding: 5px 0px;
+  padding: 5px 3px;
   margin: 0;
   color: #777;
   border-bottom: 1px solid #eee;

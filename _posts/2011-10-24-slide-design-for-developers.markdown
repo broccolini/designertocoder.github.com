@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Slide Design for Developers
+hn: http://news.ycombinator.com/item?id=3151317
 ---
 
 <img src="http://cl.ly/BB5m/slides.png" width="650" height="200" class="noclip" />

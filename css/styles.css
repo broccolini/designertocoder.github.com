@@ -1,5 +1,5 @@
 body{
-  font-family: Georgia, serif;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   margin: 0;
   -webkit-font-smoothing: antialiased;
 }
@@ -28,17 +28,26 @@ hr{
   width: 650px;
   margin-bottom: 50px;
 }
+.content ul{
+  margin-left: -10px;
+}
+.content li{
+  margin-bottom: 10px;
+  color: #222;
+  list-style-type: square;
+}
 .related{
   margin-top: 10px;
+  font-family: "Helvetica", sans-serif;
 }
 .related ul{
   margin: 0;
   padding: 0;
 }
 .related li{
-  font-size: 14px;
+  font-size: 13px;
   list-style: none;
-  padding: 5px 0px;
+  padding: 5px 3px;
   margin: 0;
   color: #777;
   border-bottom: 1px solid #eee;
@@ -86,10 +95,14 @@ h3{
   font-family: Helvetica, sans-serif;
 }
 #header .avatar{
-  border: 1px solid #fff;
+  margin-left: 2px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
-  -webkit-box-shadow: 0px 0px 4px #555;
+  -webkit-box-shadow: 0px 0px 15px #ccc;
+  opacity: .8;
+}
+#header .avatar:hover{
+  opacity: 1;
 }
 #header a{
   text-decoration: none;
@@ -161,7 +174,7 @@ h3{
   border: 1px solid #ccc;
 }
 #post p{
-  font-size: 18px;
+  font-size: 16px;
   margin-top: 0;
   margin-bottom: 1.2em;
   line-height: 1.7em;
@@ -252,6 +265,20 @@ h3{
 }
 #talks h2 a{
   color: #fff;
+}
+.talk .slides{
+  font-size: .9em;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  margin-left: 10px;
+  display: inline;
+}
+.talk .slides a{
+  text-decoration: none;
+  color: #555;
+}
+.talk .slides a:hover{
+  color: #000;
 }
 .talk .details{
   font-family: Helvetica, sans-serif;

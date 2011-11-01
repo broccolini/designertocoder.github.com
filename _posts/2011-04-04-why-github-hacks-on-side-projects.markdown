@@ -34,7 +34,9 @@ complexity. A tiny list of his (current) capabilities:
 - embed a seven day weather forecast
 
 We're building more and more into Hubot every day. (Before you ask, no, he's
-not open source yet, and yes, a few people are working on that.)
+not open source yet, and yes, a few people are working on that.) *Update,
+October 25, 2011: [Hubot is open
+source](https://github.com/blog/968-say-hello-to-hubot).*
 
 ## Embrace your newbies
 

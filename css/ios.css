@@ -38,3 +38,15 @@
   width: inherit;
   padding: 0 15px;
 }
+.authoring{
+  font-size: 2em !important;
+}
+h1, h2, h3{
+  font-size: 3em;
+}
+.content p, #post p{
+  font-size: 2em;
+}
+.content .copy{
+  line-height: 3em;
+}

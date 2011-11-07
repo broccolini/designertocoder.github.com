@@ -5,6 +5,7 @@ category: screencast
 embed: '<iframe src="http://player.vimeo.com/video/31712158" width="651" height="366" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>'
 teaser: "Play is your company's DJ."
 permalink: '/screencast/play'
+hn: http://news.ycombinator.com/item?id=3208411
 ---
 
 Guy walks into a bar.

@@ -1,0 +1,52 @@
+#header{
+  position: relative;
+  width: inherit;
+  left: inherit;
+  top: inherit;
+  padding: 15px;
+}
+#header .site{
+  display: none;
+}
+#header .avatar{
+  width: 40px;
+  height: 40px;
+  margin-bottom: -10px;
+  margin-right: 5px;
+}
+#header #me{
+  display: inline;
+}
+#header #zach, #header #holman{
+  font-size: 30px;
+  color: #000;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  letter-spacing: 0;
+  font-weight: normal;
+  text-transform: none;
+  padding-right: 3px;
+}
+#header #sections{
+  margin: 0;
+}
+#header #sections div{
+  display: inline;
+}
+
+.content{
+  margin-left: 0;
+  width: inherit;
+  padding: 0 15px;
+}
+.authoring{
+  font-size: 2em !important;
+}
+h1, h2, h3{
+  font-size: 3em;
+}
+.content p, #post p{
+  font-size: 2em;
+}
+.content .copy{
+  line-height: 3em;
+}

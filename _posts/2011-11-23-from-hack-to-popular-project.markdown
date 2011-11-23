@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'From "Hack" to "Popular Project"'
+hn: http://news.ycombinator.com/item?id=3271776
 ---
 
 Last Monday, I sat down to hack.

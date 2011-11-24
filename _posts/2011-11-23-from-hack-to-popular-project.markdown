@@ -62,8 +62,8 @@ too. Very quickly a small community arose, with some awesome results:
 implementations in Ruby, Python, Haskell, Java, Lisp, and many others. An
 implementation in obfuscated C whose code
 [actually looks like a sparkline][vicent]. An [npm package][clark] for adding
-spark to Hubot. The creator of Redis, Salvatore Antirez, [said it best][antirez]
-while creating his own implementation:
+spark to Hubot. The creator of Redis, Salvatore Sanfilippo,
+[said it best][antirez] while creating his own implementation:
 
 > Sometimes coding something useless, funny, from scratch, is the best way to
 > relax before the next burst of work.

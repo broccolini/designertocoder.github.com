@@ -45,14 +45,14 @@ I worry about girls and boys in middle school and high school who are turned off
 
 I think, for certain women just as much as it is for certain men, that working in a startup can be a wholly positive experience in their lives. That's why we should encourage more women to join startups. But as much as that's a nice, benevolent gesture, I also want this for entirely selfish reasons: I think having more women in tech will improve our products, improve our work environments, and improve our industry. Today, startups mostly have a singular (and male!) perspective. On top of that, it's hard enough to find good talent lately. Hiring for tomorrow means we need to snatch up all of the killer talent that both genders can provide.
 
-[Gina Trapini][trapini] gave [a wonderful talk][talk] at [CodeConf][codeconf] last year about the importance of community in open source software. One aspect was diversity. If you only surround yourself with like-minded individuals, you're going to end up with solutions that suit that minority. It's hard to change the world that way. By adding different perspectives to your project or company, you're able to position yourself to better address the needs of a broader public.
+[Gina Trapani][trapani] gave [a wonderful talk][talk] at [CodeConf][codeconf] last year about the importance of community in open source software. One aspect was diversity. If you only surround yourself with like-minded individuals, you're going to end up with solutions that suit that minority. It's hard to change the world that way. By adding different perspectives to your project or company, you're able to position yourself to better address the needs of a broader public.
 
 I think it's harmful for such a visible publication like TechCrunch to suggest we shouldn't encourage women to join the startup world.
 
 I think we should *all* be telling women to do more startups.
 
 [crunch]: http://techcrunch.com/2011/12/11/stop-telling-women-to-do-startups
-[trapini]: https://twitter.com/ginatrapani
+[trapani]: https://twitter.com/ginatrapani
 [talk]: http://ginatrapani.org/codeconf/
 [codeconf]: http://codeconf.com/
 [hours]: http://zachholman.com/posts/how-github-works-hours/

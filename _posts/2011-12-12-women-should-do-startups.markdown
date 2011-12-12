@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Women Should Do Startups
-hn: http://news.ycombinator.com/item?id=3344958
+hn: http://news.ycombinator.com/item?id=3344982
 ---
 
 Yesterday Penelope Trunk wrote a guest post on TechCrunch that told us all to "[Stop Telling Women To Do Startups][crunch]".

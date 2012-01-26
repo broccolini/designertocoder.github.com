@@ -251,20 +251,17 @@ h3{
 }
 
 /*
- 
+
  TALKS
 
  */
-#talks h2{
-  font-size: 18px;
-  font-family: Helvetica, sans-serif;
-  padding: 5px 7px;
-  color: #fff;
-  display: inline;
-  background-color: #000;
+#talks .explain {
+  line-height: 1.8em;
+  font-size: 15px;
+  padding: 10px 5px;
 }
-#talks h2 a{
-  color: #fff;
+.talk-display p{
+  line-height: 1.8em;
 }
 .talk .slides{
   font-size: .9em;
@@ -319,7 +316,7 @@ h3{
 }
 
 /*
- 
+
  SCREENCASTS
 
  */
@@ -334,7 +331,7 @@ h3{
 }
 
 /*
- 
+
  HACKER NEWS MAD KARMA
 
  */
@@ -344,7 +341,7 @@ h3{
 
 
 /*
- 
+
  BOASTFUL
 
  */

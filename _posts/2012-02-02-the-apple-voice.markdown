@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Apple Voice
+hn: http://news.ycombinator.com/item?id=3548712
 ---
 
 Most startups don't have the luxury of meeting every one of their customers. They can't explain the case for their product in-person.

@@ -26,17 +26,17 @@ three days.
 ### [Hours are Bullshit][hours]
 
 Most companies want you to get to work early and stay late. The metric should
-be productivity, not hours. [Click to read][hours].
+be productivity, not hours. [Hours are Bullshit][hours].
 
 ### [Be Asynchronous][async]
 
 You can get more done by being more direct, less intrusive, and more
-cooperative with your coworkers. [Click to read][async].
+cooperative with your coworkers. [Be asynchronous][async].
 
 ### [Creativity is Important][creativity]
 
 Code is creativity. Fostering an atmosphere where people can be creative will
-lead to better code. [Click to read][creativity].
+lead to better code. [Creativity is Important][creativity].
 
 [feedback]: https://github.com/holman/feedback
 [questions]: https://github.com/holman/feedback/issues/22

@@ -1,0 +1,86 @@
+body {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  margin: 0;
+  -webkit-font-smoothing: antialiased; }
+
+a {
+  color: #227ce8; }
+
+.sidebar {
+  position: fixed;
+  left: 15px;
+  top: 15px;
+  width: 80px;
+  font-family: Helvetica, sans-serif; }
+  .sidebar a {
+    text-decoration: none; }
+  .sidebar .avatar {
+    border-radius: 5px !important;
+    box-shadow: 0px 0px 15px #ccc;
+    opacity: .8; }
+    .sidebar .avatar:hover {
+      opacity: 1; }
+  .sidebar .name {
+    text-transform: uppercase;
+    margin: 10px 0 20px 0; }
+    .sidebar .name #zach {
+      padding-left: 1px;
+      font-size: 23px;
+      letter-spacing: 5px;
+      color: #666; }
+      .sidebar .name #zach:hover {
+        color: black; }
+    .sidebar .name #holman {
+      font-size: 17px;
+      font-weight: bold;
+      letter-spacing: 1px;
+      color: black; }
+  .sidebar img {
+    padding: 0 3px;
+    border: 0; }
+  .sidebar .alt-text {
+    font-size: 12px;
+    color: #777777;
+    padding-left: 2px;
+    letter-spacing: 1px; }
+  .sidebar .sections {
+    margin: 25px 0 0 -15px; }
+    .sidebar .sections a {
+      background-color: #000;
+      padding: 3px 5px;
+      color: #fff;
+      font-weight: bold;
+      font-size: 12px; }
+      .sidebar .sections a:hover {
+        color: #ccc; }
+    .sidebar .sections ul {
+      margin: 0;
+      padding: 0; }
+    .sidebar .sections li {
+      list-style: none;
+      margin-bottom: 7px; }
+
+.content {
+  margin-left: 110px;
+  width: 650px;
+  margin-bottom: 50px; }
+  .content .listing {
+    margin: 10px 0 0 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif; }
+    .content .listing ul {
+      margin: 0;
+      padding: 0; }
+    .content .listing li {
+      font-size: 13px;
+      list-style: none;
+      padding: 5px 3px;
+      margin: 0;
+      color: #777777;
+      border-bottom: 1px solid #eee; }
+    .content .listing li span {
+      float: right; }
+    .content .listing a {
+      text-decoration: none; }
+      .content .listing a:hover {
+        text-decoration: underline; }

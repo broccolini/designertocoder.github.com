@@ -311,6 +311,18 @@ h3{
   border-radius: none;
   box-shadow: none;
 }
+.talk-display .color div{
+  float: left;
+  margin-right: 10px;
+  padding: 5px 15px;
+  border: 1px solid #000;
+  font-family: Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+}
+.talk-display .color .white{
+  color: #fff;
+}
 
 /*
 

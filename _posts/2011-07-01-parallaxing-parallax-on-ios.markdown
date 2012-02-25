@@ -10,7 +10,7 @@ script: "
 hn: "http://news.ycombinator.com/item?id=2719922"
 ---
 
-<script type="text/javascript" src="/javascript/plax.js"></script>
+<script type="text/javascript" src="/js/plugins/plax.js"></script>
 
 GitHub has a bit of a friendly competition complex. When [Corey
 Johnson](http://twitter.com/probablycorey) released [URL

@@ -5,6 +5,7 @@ $blue:       #227CE8;
 
 $serif: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 $sans: Helvetica, sans-serif;
+$headline: 'Yanone Kaffeesatz', $sans;
 
 * {
 }
@@ -30,8 +31,15 @@ a {
     text-decoration: none;
   }
 
+  img {
+    padding: 0 3px;
+    border: 0;
+  }
+
   .avatar {
-    border-radius: 5px !important;
+    padding: 0;
+    margin-left: 2px;
+    border-radius: 5px;
     box-shadow: 0px 0px 15px #ccc;
     opacity: .8;
 
@@ -61,11 +69,6 @@ a {
       letter-spacing: 1px;
       color: $black;
     }
-  }
-
-  img {
-    padding: 0 3px;
-    border: 0;
   }
 
   .alt-text {
@@ -106,6 +109,60 @@ a {
   margin-left: 110px;
   width: 650px;
   margin-bottom: 50px;
+
+  // h1-h4
+  @each $number in 1,2,3,4 {
+    h#{$number} {
+      color: #333;
+      font-family: $headline;
+      font-weight: 400;
+      border-bottom: 1px solid #ccc;
+    }
+
+    h#{$number} a {
+      color: #111;
+      text-decoration: none;
+    }
+  }
+
+  h1 {
+    font-size: 36px;
+    margin: 18px 0 5px 0;
+  }
+
+  h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+
+  h3 {
+    color: #777;
+    font-size: 25px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+
+  p {
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 1.2em;
+    line-height: 1.7em;
+  }
+
+  hr {
+    border: 0;
+    height: 1px;
+    background-color: #ccc;
+    margin: 2em 1em;
+  }
+
+  .byline {
+    margin-bottom: 17px;
+    font-family: $headline;
+    padding-left: 0px;
+    font-size: 17px;
+    color: #777;
+  }
 
   .listing {
     margin: 10px 0 0 0;

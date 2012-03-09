@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How GitHub Works"
+hn: http://news.ycombinator.com/item?id=3685968
 ---
 
 ## Posts

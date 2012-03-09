@@ -34,7 +34,8 @@ done a few GitHub-related talks since then, I didn't get to do a true
   </div>
 </div>
 
-<br /><br />
+<br />
+<br />
 
 <ul>
   <li>Typeface: <a href="http://www.theleagueofmoveabletype.com/ostrich-sans">Ostrich Sans</a></li>

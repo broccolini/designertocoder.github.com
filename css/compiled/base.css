@@ -192,3 +192,13 @@ a {
       border-radius: 4px; }
     .content .meta .copy {
       padding-left: 60px; }
+  .content .talk-design .color div {
+    float: left;
+    margin-right: 10px;
+    padding: 5px 15px;
+    border: 1px solid #000;
+    font-family: Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold; }
+  .content .talk-design .color .white {
+    color: #fff; }

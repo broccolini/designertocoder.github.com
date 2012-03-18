@@ -262,4 +262,19 @@ a {
       padding-left: 60px;
     }
   }
+
+  .talk-design {
+    .color div{
+      float: left;
+      margin-right: 10px;
+      padding: 5px 15px;
+      border: 1px solid #000;
+      font-family: $sans;
+      font-size: 12px;
+      font-weight: bold;
+    }
+    .color .white{
+      color: #fff;
+    }
+  }
 }

@@ -26,7 +26,7 @@ done a few GitHub-related talks since then, I didn't get to do a true
 <p>Coming soon.</p>
 
 <h3>Notes on Design</h3>
-<div class="talk-display">
+<div class="talk-design">
   <div class="color">
     <div class="white" style="background-color: #455456">#455456</div>
     <div class="white" style="background-color: #F52E88">#F52E88</div>

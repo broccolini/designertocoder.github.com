@@ -4,19 +4,19 @@
 
 $(document).ready () ->
   $('#github').mouseover () ->
-    $('#mousing').text("GitHub")
+    $('.alt-text').text("GitHub")
 
   $('#github').mouseout () ->
-    $('#mousing').html("&nbsp;")
+    $('.alt-text').html("&nbsp;")
 
   $('#twitter').mouseover () ->
-    $('#mousing').text("Twitter")
+    $('.alt-text').text("Twitter")
 
   $('#twitter').mouseout () ->
-    $('#mousing').html("&nbsp;")
+    $('.alt-text').html("&nbsp;")
 
   $('#rss').mouseover () ->
-    $('#mousing').text("RSS")
+    $('.alt-text').text("RSS")
 
   $('#rss').mouseout () ->
-    $('#mousing').html("&nbsp;")
+    $('.alt-text').html("&nbsp;")

@@ -22,6 +22,8 @@ the beach, and hailed a nearby taxicab."
 
 Introducing [play][play]: your company's DJ.
 
+*Edit: in April 2012 [I announced a new version of Play](/talk/play).*
+
 ## play
 
 We use play to play music on the speakers at work. It tallies up votes and

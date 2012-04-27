@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Survive Tech Conferences
+hn: http://news.ycombinator.com/item?id=3900967
 ---
 
 ![badges](http://cl.ly/0r0P1F3f0d2c3L2s2J0f/badges.jpg)

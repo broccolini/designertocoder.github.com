@@ -19,6 +19,9 @@ I've always wanted to expand this into a proper talk, though. While I've
 done a few GitHub-related talks since then, I didn't get to do a true
 "How GitHub Works" talk until 2012.
 
+<h3>Slides with Audio</h3>
+<iframe src="http://player.vimeo.com/video/43684882" width="650" height="488" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 <h3>Slides</h3>
 <script src="http://speakerdeck.com/embed/4f5a626226a41c0022000672.js"></script>
 

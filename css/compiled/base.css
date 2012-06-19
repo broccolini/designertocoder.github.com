@@ -129,6 +129,9 @@ a {
     height: 1px;
     background-color: #ccc;
     margin: 2em 1em; }
+  .content li {
+    margin-bottom: 10px;
+    line-height: 1.4em; }
   .content blockquote {
     font-style: italic;
     font-size: 14px;

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What They Don't Tell You About Public Speaking
+hn: http://news.ycombinator.com/item?id=4133269
 ---
 
 Looking back on a year of speaking at conferences, I'm rather flabbergasted that

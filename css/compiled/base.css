@@ -126,9 +126,10 @@ a {
     max-width: 100%; }
   .content hr {
     border: 0;
-    height: 1px;
-    background-color: #ccc;
-    margin: 2em 1em; }
+    height: 6px;
+    background-image: url("/images/hr.png");
+    background-repeat: repeat-x;
+    margin: 2em 3em; }
   .content li {
     margin-bottom: 10px;
     line-height: 1.4em; }

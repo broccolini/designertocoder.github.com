@@ -165,9 +165,10 @@ a {
 
   hr {
     border: 0;
-    height: 1px;
-    background-color: #ccc;
-    margin: 2em 1em;
+    height: 6px;
+    background-image: url('/images/hr.png');
+    background-repeat: repeat-x;
+    margin: 2em 3em;
   }
 
   li {

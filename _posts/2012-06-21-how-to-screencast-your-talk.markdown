@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Screencast Your Talk
+hn: http://news.ycombinator.com/item?id=4143848
 ---
 
 So you're nervously up on stage in front of hundreds of strangers about to give
